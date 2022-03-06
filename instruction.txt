@@ -1,0 +1,12 @@
+--- FIRST THINGS FIRST ----------------------
+This file will be updated on March 12, 1pm.
+The candidates have to submit the code by March 12, 6pm. 
+The submission with incorrect results will not be considered.
+The results that is received after March 12, 6pm will not be considered.
+Top 5 people who submit the code that produces correct result as fast as possible will be called for internship. 
+Only the selected ones will receive the phone call and an email. We won't email to those who are not selected.
+
+
+---- Please check back on March 12 at 1pm --------------
+1. Final test Git repository: https://github.com/rabindrakharel/March12FinalTest [To be updated on March 12, 1pm]
+2. Final test submission form: https://docs.google.com/forms/d/17UEuCXz8MduEUpeAsXeTjcCWsGQnsj76nllh0Lsih6A/edit
