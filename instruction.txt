@@ -10,3 +10,11 @@ Only the selected ones will receive the phone call and an email. We won't email 
 ---- Please check back on March 12 at 1pm --------------
 1. Final test Git repository: https://github.com/rabindrakharel/March12FinalTest [To be updated on March 12, 1pm]
 2. Final test submission form: https://docs.google.com/forms/d/17UEuCXz8MduEUpeAsXeTjcCWsGQnsj76nllh0Lsih6A/edit
+
+
+------ For those who receive the call -------------------
+You must bring all the code of Week 1, Week 2, Week 3 and Final test; and explain how you solved the problem.
+
+
+------ For those who not get selected  -------------------
+There are going to be a lot of openings on the future. We will consider you above all others. Let's keep in touch :) 
