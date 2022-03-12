@@ -12,7 +12,7 @@ Only the selected ones will receive the phone call and an email. We won't email 
 Final test Git repository: https://github.com/rabindrakharel/March12FinalTest [To be updated on March 12, 1pm]
 
 ---- WHERE DO YOU SUBMIT THE RESLT SET?
-2. Final test submission form: https://docs.google.com/forms/d/17UEuCXz8MduEUpeAsXeTjcCWsGQnsj76nllh0Lsih6A/edit
+Final test submission form: https://docs.google.com/forms/d/17UEuCXz8MduEUpeAsXeTjcCWsGQnsj76nllh0Lsih6A/edit
 
 ------ For those who are selected and who receive the call ----------------------------------------------------------
 You must bring all the code of Week 1, Week 2, Week 3 and Final test; and explain how you solved the problem. You will have to be physically present on March 14th. 
