@@ -1,5 +1,5 @@
 --- FIRST THINGS FIRST ----------------------
-This file will be updated on March 12, 1pm.
+This dataset will be updated on March 12, 1pm.
 The candidates have to submit the code by March 12, 6pm. 
 The submission with incorrect results will not be considered.
 The results that is received after March 12, 6pm will not be considered.
@@ -18,3 +18,14 @@ You must bring all the code of Week 1, Week 2, Week 3 and Final test; and explai
 
 ------ For those who not get selected  -------------------
 There are going to be a lot of openings in the future. We will consider you above all others. Let's keep in touch :) 
+
+
+
+-- Dataset intelligentGuessingDataSet.csv has a format of rownum,firstname,lastname,email,Email Pattern,Comments
+rownum 1 to 22 has got the patterns for the left part of the email. Your task is to complete the patterns for rownum 23 to 53. 
+
+Submission structure: 
+repository name: March12FinalTest
+                 -- intelligentGuessingDataSet.csv
+                 -- submission.csv
+                 -- instruction.txt
