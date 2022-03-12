@@ -27,8 +27,8 @@ There are going to be a lot of openings in the future. We will consider you abov
 PROBLEM SET 1: 
 --------------------------------------------------------------------------------------------------------------------
 
--- Dataset intelligentGuessingDataSet.csv has a format of rownum,firstname,lastname,email,Email Pattern,Comments
-rownum 1 to 22 has got the patterns for the left part of the email. Your task is to complete the patterns for rownum 23 to 53. 
+-- Dataset intelligentGuessingDataSet.csv has a format of [rownum,firstname,lastname,email,Email Pattern,Comments]
+rownum 1 to 22 has got the patterns for the left part of the email. Your task is to complete the patterns for rownum 23 to 53. The submission file problemset1_submission.csv must have headers [rownum,firstname,lastname,email,Email Pattern]
 
 Submission structure: 
 repository name: March12FinalTest
