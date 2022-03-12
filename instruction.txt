@@ -35,7 +35,7 @@ repository name: March12FinalTest
                  -- intelligentGuessingDataSet.csv
                  -- problemset1_submission.csv
                  -- instruction.txt
-				 -- intelligentGuessingCodeFolder {Please put all your python or SQL code here.}           
+		 -- intelligentGuessingCodeFolder {Please put all your python or SQL code here.}           
                  
 				 
 				 
